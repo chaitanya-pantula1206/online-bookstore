@@ -1,0 +1,8 @@
+</main>
+<footer class="site-footer">
+    <div class="container">
+        Online Bookstore &middot; JSP/Servlet WAR built with Apache Maven &middot; deployed on Apache Tomcat
+    </div>
+</footer>
+</body>
+</html>
